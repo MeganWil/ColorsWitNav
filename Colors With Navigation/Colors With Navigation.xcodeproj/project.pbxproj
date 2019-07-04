@@ -15,6 +15,7 @@
 		D57E742A22CDD7A40030A162 /* Colors_With_NavigationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D57E742922CDD7A40030A162 /* Colors_With_NavigationUITests.swift */; };
 		D57E743822CDD8270030A162 /* ColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D57E743722CDD8270030A162 /* ColorsViewController.swift */; };
 		D57E743A22CDDBF10030A162 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = D57E743922CDDBF10030A162 /* Color.swift */; };
+		D57E743C22CDE1210030A162 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D57E743B22CDE1210030A162 /* ColorDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D57E742B22CDD7A40030A162 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D57E743722CDD8270030A162 /* ColorsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsViewController.swift; sourceTree = "<group>"; };
 		D57E743922CDDBF10030A162 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		D57E743B22CDE1210030A162 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				D57E741522CDD7A40030A162 /* Info.plist */,
 				D57E743722CDD8270030A162 /* ColorsViewController.swift */,
 				D57E743922CDDBF10030A162 /* Color.swift */,
+				D57E743B22CDE1210030A162 /* ColorDetailViewController.swift */,
 			);
 			path = "Colors With Navigation";
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				D57E743822CDD8270030A162 /* ColorsViewController.swift in Sources */,
 				D57E740A22CDD7A10030A162 /* AppDelegate.swift in Sources */,
 				D57E743A22CDDBF10030A162 /* Color.swift in Sources */,
+				D57E743C22CDE1210030A162 /* ColorDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
